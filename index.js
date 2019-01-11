@@ -9,6 +9,12 @@ const genres = require('./routes/genres');
 const home = require('./routes/home');
 const logger = require('./middleware/logger');
 const authenticate = require('./middleware/authenticator');
+const mongoose = require('mongoose');
+
+mongoose.connect('mongodb://localhost/vidly')
+  .then(() => console.log('Connected to Mongodb'))
+  .catch(err => console.error('Could not connect to Mongodb...'));
+
 
 app.set('view engine', 'pug');
 app.set('views', './views');
