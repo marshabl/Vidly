@@ -6,6 +6,7 @@ const app = express();
 const helmet = require('helmet');
 const morgan = require('morgan');
 const genres = require('./routes/genres');
+const customers = require('./routes/customers')
 const home = require('./routes/home');
 const logger = require('./middleware/logger');
 const authenticate = require('./middleware/authenticator');
@@ -15,7 +16,6 @@ mongoose.connect('mongodb://localhost/vidly')
   .then(() => console.log('Connected to Mongodb'))
   .catch(err => console.error('Could not connect to Mongodb...'));
 
-
 app.set('view engine', 'pug');
 app.set('views', './views');
 
@@ -24,6 +24,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.static('public'));
 app.use(helmet());
 app.use('/api/genres', genres);
+app.use('/api/customers', customers);
 app.use('/', home);
 app.use(logger);
 app.use(authenticate);
