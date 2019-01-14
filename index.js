@@ -7,6 +7,8 @@ const helmet = require('helmet');
 const morgan = require('morgan');
 const genres = require('./routes/genres');
 const customers = require('./routes/customers')
+const movies = require('./routes/movies')
+const rentals = require('./routes/rentals')
 const home = require('./routes/home');
 const logger = require('./middleware/logger');
 const authenticate = require('./middleware/authenticator');
@@ -25,6 +27,8 @@ app.use(express.static('public'));
 app.use(helmet());
 app.use('/api/genres', genres);
 app.use('/api/customers', customers);
+app.use('/api/movies', movies);
+app.use('/api/rentals', rentals);
 app.use('/', home);
 app.use(logger);
 app.use(authenticate);
