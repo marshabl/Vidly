@@ -10,11 +10,17 @@ const genres = require('./routes/genres');
 const customers = require('./routes/customers');
 const movies = require('./routes/movies');
 const rentals = require('./routes/rentals');
-const users = require('./routes/users')
+const users = require('./routes/users');
+const auth = require('./routes/auth');
 const home = require('./routes/home');
 const logger = require('./middleware/logger');
 const authenticate = require('./middleware/authenticator');
 const mongoose = require('mongoose');
+
+if (!config.get('jwtPrivateKey')) {
+  console.error('Fatal Error: jwtPrivateKey is not defined.');
+  process.exit(1);
+}
 
 mongoose.connect('mongodb://localhost/vidly')
   .then(() => console.log('Connected to Mongodb'))
@@ -32,13 +38,10 @@ app.use('/api/customers', customers);
 app.use('/api/movies', movies);
 app.use('/api/rentals', rentals);
 app.use('/api/users', users);
+app.use('/api/auth', auth);
 app.use('/', home);
 app.use(logger);
 app.use(authenticate);
-
-console.log('Application Name: ' + config.get('name'));
-console.log('Mail Server: ' + config.get('mail.host'));
-console.log('Mail Password: ' + config.get('mail.password'));
 
 if (app.get('env') === 'development') {
   app.use(morgan('tiny'));
