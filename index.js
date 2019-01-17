@@ -1,3 +1,5 @@
+require('express-async-errors');
+const error = require('./middleware/error');
 const Joi = require('joi');
 Joi.objectId = require('joi-objectid')(Joi);
 const config = require('config');
@@ -42,6 +44,8 @@ app.use('/api/auth', auth);
 app.use('/', home);
 app.use(logger);
 app.use(authenticate);
+
+app.use(error);
 
 if (app.get('env') === 'development') {
   app.use(morgan('tiny'));
