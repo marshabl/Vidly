@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest --watchAll --verbose"
+    "test": "jest --watchAll --verbose --coverage"
   },
   "author": "",
   "license": "ISC",
@@ -28,6 +28,7 @@
   },
   "devDependencies": {
     "jest": "^23.6.0",
-    "jshint": "^2.9.7"
+    "jshint": "^2.9.7",
+    "supertest": "^3.4.2"
   }
 }
