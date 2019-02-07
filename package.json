@@ -4,12 +4,17 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest --watchAll --verbose --coverage"
+    "test": "jest --watchAll --verbose",
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "10.14.1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^3.0.3",
+    "compression": "^1.7.3",
     "config": "^3.0.1",
     "debug": "^4.1.1",
     "express": "^4.16.4",
@@ -20,6 +25,7 @@
     "joi-objectid": "^2.0.0",
     "jsonwebtoken": "^8.4.0",
     "lodash": "^4.17.11",
+    "moment": "^2.24.0",
     "mongoose": "^5.4.3",
     "morgan": "^1.9.1",
     "pug": "^2.0.3",

@@ -417,3 +417,799 @@
 {"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T19:30:14.862Z"}
 {"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T19:30:14.920Z"}
 {"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T19:30:14.930Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T20:52:34.776Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T20:52:34.784Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T20:52:34.821Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T20:52:34.863Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:00:36.138Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:00:36.147Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:00:36.184Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:00:36.226Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:01:22.432Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:01:22.431Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:01:22.493Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:01:22.504Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:12:22.203Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:12:22.213Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:12:22.259Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:12:22.300Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:13:24.923Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:13:24.975Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:13:24.933Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:13:25.021Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:14:22.248Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:14:22.257Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:14:22.298Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:14:22.338Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:14:22.551Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:14:22.603Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:23:20.285Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:23:20.295Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:23:20.332Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:23:20.373Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:23:20.645Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:23:20.693Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:25:32.093Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:25:32.091Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:25:32.165Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:25:32.178Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:25:32.457Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:25:32.506Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:26:52.572Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:26:52.575Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:26:52.660Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:26:52.671Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:26:52.722Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:27:47.004Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:27:47.015Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:27:47.053Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:27:47.104Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:27:47.137Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:28:03.009Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:28:03.007Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:28:03.072Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:28:03.085Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:28:03.123Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:29:56.540Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:29:56.555Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:29:56.607Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:29:56.664Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:29:56.691Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:34:04.016Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:34:04.061Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:34:04.100Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:34:04.190Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:34:04.206Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:34:15.235Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:34:15.301Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:34:15.345Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:34:15.687Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:34:15.740Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:34:39.063Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:34:39.061Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:34:39.127Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:34:39.137Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:34:39.499Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:34:39.545Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:36:14.444Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:36:14.455Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:36:14.490Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:36:14.534Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:36:14.771Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:36:14.816Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:38:14.864Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:38:14.935Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:38:14.929Z"}
+{"message":"unsupported charset \"UTF-8\"","stack":"UnsupportedMediaTypeError: unsupported charset \"UTF-8\"\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/body-parser/lib/read.js:83:18\n    at invokeCallback (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:224:16)\n    at process._tickCallback (internal/process/next_tick.js:61:11)","name":"UnsupportedMediaTypeError","charset":"utf-8","type":"charset.unsupported","level":"error","timestamp":"2019-01-31T21:38:14.952Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:38:14.991Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:38:15.383Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:38:15.443Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:38:42.916Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:38:42.964Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:38:42.999Z"}
+{"message":"unsupported charset \"UTF-8\"","stack":"UnsupportedMediaTypeError: unsupported charset \"UTF-8\"\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/body-parser/lib/read.js:83:18\n    at invokeCallback (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:224:16)\n    at process._tickCallback (internal/process/next_tick.js:61:11)","name":"UnsupportedMediaTypeError","charset":"utf-8","type":"charset.unsupported","level":"error","timestamp":"2019-01-31T21:38:43.027Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:38:43.075Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:38:43.265Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:38:43.347Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:38:53.171Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:38:53.183Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:38:53.218Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:38:53.226Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:38:53.573Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:38:53.617Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:48:59.071Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:48:59.116Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:48:59.183Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:48:59.431Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:48:59.511Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:49:40.781Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:49:40.789Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:49:40.827Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:49:40.833Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:49:41.132Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:49:41.180Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:51:31.643Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:51:31.688Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:51:31.752Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:51:32.014Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:51:32.095Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:59:33.831Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T21:59:33.857Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:59:33.879Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:59:33.909Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T21:59:33.970Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T22:02:07.336Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T22:02:07.348Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T22:02:07.391Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T22:02:07.398Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T22:02:07.474Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T22:06:36.060Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T22:06:36.107Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T22:06:36.138Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T22:06:36.188Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T22:06:36.178Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T22:06:36.228Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T22:09:23.248Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T22:09:23.294Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T22:09:23.358Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T22:09:23.526Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T22:09:23.601Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T22:13:15.791Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T22:13:15.836Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T22:13:15.904Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T22:13:16.100Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T22:13:16.175Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T22:20:47.319Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T22:20:47.316Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T22:20:47.375Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T22:20:47.394Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T22:20:47.567Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T22:20:47.617Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T22:24:30.165Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T22:24:30.169Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T22:24:30.204Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T22:24:30.250Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T22:24:30.593Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T22:24:30.662Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T22:25:06.058Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T22:25:06.065Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T22:25:06.098Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T22:25:06.122Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T22:25:06.441Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T22:25:06.515Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T22:27:56.332Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T22:27:56.375Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T22:27:56.374Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T22:27:56.436Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T22:27:56.741Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T22:27:56.829Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T22:50:07.815Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T22:50:07.862Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T22:50:08.156Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T22:50:08.206Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T22:50:08.218Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T22:50:08.309Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T22:50:28.296Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T22:50:28.329Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T22:50:28.343Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T22:50:28.407Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T22:50:28.729Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T22:50:28.775Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T22:55:06.954Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T22:55:06.964Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T22:55:06.960Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T22:55:07.001Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T22:55:07.041Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T22:55:07.093Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T23:01:04.271Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T23:01:04.317Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T23:01:04.338Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T23:01:04.351Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T23:01:04.586Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T23:01:04.659Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T23:08:09.575Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T23:08:09.584Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T23:08:09.626Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T23:08:09.672Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T23:08:09.947Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T23:08:09.997Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T23:09:10.192Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T23:09:10.197Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T23:09:10.203Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T23:09:10.243Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T23:09:10.297Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T23:09:10.333Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T23:18:12.650Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T23:18:12.699Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T23:18:12.721Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T23:18:12.733Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T23:18:13.008Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T23:18:13.083Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T23:19:48.023Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T23:19:48.032Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T23:19:48.069Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T23:19:48.108Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T23:19:48.312Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T23:19:48.359Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T23:27:20.172Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T23:27:20.236Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T23:27:20.276Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T23:27:20.285Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T23:27:20.737Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T23:27:20.791Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T23:28:30.523Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T23:28:30.519Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T23:28:30.531Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T23:28:30.573Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T23:28:30.603Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T23:28:30.645Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T23:28:53.320Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T23:28:53.318Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T23:28:53.430Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T23:28:53.435Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T23:28:53.436Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T23:28:53.452Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T23:32:35.117Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T23:32:35.118Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T23:32:35.154Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T23:32:35.194Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T23:32:35.402Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T23:32:35.457Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T23:33:07.263Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T23:33:07.269Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T23:33:07.313Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T23:33:07.319Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T23:33:07.551Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T23:33:07.637Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T23:34:00.937Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T23:34:00.940Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T23:34:00.976Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T23:34:01.024Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T23:34:01.290Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T23:34:01.368Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T23:35:00.799Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T23:35:00.861Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T23:35:00.867Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T23:35:00.872Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T23:35:01.127Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T23:35:01.208Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T23:35:57.785Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T23:35:57.848Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T23:35:57.858Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T23:35:57.859Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-01-31T23:35:58.008Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-01-31T23:35:58.084Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T02:55:52.987Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T02:55:52.990Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T02:55:53.057Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T02:55:53.062Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T02:55:53.235Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T02:55:53.283Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T02:57:15.190Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T02:57:15.193Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T02:57:15.234Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T02:57:15.240Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T02:57:15.563Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T02:57:15.647Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T02:57:31.707Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T02:57:31.716Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T02:57:31.793Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T02:57:31.800Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T02:57:31.807Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T02:57:31.821Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T02:57:43.603Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T02:57:43.628Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T02:57:43.645Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T02:57:43.637Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T02:57:43.697Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T02:57:43.711Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T22:45:41.841Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T22:45:41.850Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T22:45:41.907Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T22:45:41.935Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T22:45:42.115Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T22:45:42.164Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T22:51:39.656Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T22:51:39.661Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T22:51:39.678Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T22:51:39.702Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T22:51:39.735Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T22:51:39.789Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T22:54:09.082Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T22:54:09.087Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T22:54:09.098Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T22:54:09.125Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T22:54:09.165Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T22:54:09.201Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T22:56:55.572Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T22:56:55.627Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T22:56:55.672Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T22:56:55.660Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T22:56:55.741Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T22:56:55.778Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T22:57:19.705Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T22:57:19.767Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T22:57:19.771Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T22:57:19.820Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T22:57:19.833Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T22:57:19.873Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T23:00:13.438Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T23:00:13.444Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T23:00:13.436Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T23:00:13.479Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T23:00:13.492Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T23:00:13.521Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T23:00:25.697Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T23:00:25.694Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T23:00:25.722Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T23:00:25.736Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T23:00:25.749Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T23:00:25.798Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T23:00:40.313Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T23:00:40.354Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T23:00:40.344Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T23:00:40.346Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T23:00:40.401Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T23:00:40.419Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T23:07:50.501Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T23:07:50.498Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T23:07:50.559Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T23:07:50.578Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T23:07:50.899Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T23:07:50.946Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T23:21:52.296Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T23:21:52.305Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T23:21:52.347Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T23:21:52.375Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T23:21:52.385Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T23:21:52.403Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T23:29:33.317Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T23:29:33.322Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T23:29:33.374Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T23:29:33.377Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T23:29:33.387Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T23:29:33.387Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T23:30:46.662Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T23:30:46.662Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T23:30:46.717Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T23:30:46.732Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-01T23:30:46.993Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-01T23:30:47.037Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T20:32:38.738Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T20:32:38.763Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T20:32:38.854Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T20:32:38.853Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T20:32:38.863Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T20:32:38.864Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T20:39:42.061Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T20:39:42.062Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T20:39:42.134Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T20:39:42.147Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T20:39:42.349Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T20:39:42.398Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T20:42:37.015Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T20:42:37.010Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T20:42:37.036Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T20:42:37.076Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T20:42:37.087Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T20:42:37.164Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T20:43:48.157Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T20:43:48.169Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T20:43:48.238Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T20:43:48.272Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T20:43:48.288Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T20:43:48.301Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T20:45:15.105Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T20:45:15.125Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T20:45:15.161Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T20:45:15.196Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T20:45:15.210Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T20:45:15.221Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T20:45:50.339Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T20:45:50.342Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T20:45:50.368Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T20:45:50.385Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T20:45:50.414Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T20:45:50.464Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T20:47:03.885Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T20:47:03.924Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T20:47:03.978Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T20:47:03.981Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T20:47:03.983Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T20:47:03.996Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T20:47:23.104Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T20:47:23.200Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T20:47:23.166Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T20:47:23.214Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T20:47:23.248Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T20:47:23.267Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T20:50:03.167Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T20:50:03.240Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T20:50:03.248Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T20:50:03.250Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T20:50:03.640Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T20:50:03.699Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T20:50:27.781Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T20:50:27.775Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T20:50:27.831Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T20:50:27.847Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T20:50:28.209Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T20:50:28.291Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T20:52:05.143Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T20:52:05.145Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T20:52:05.190Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T20:52:05.232Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T20:52:05.581Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T20:52:05.643Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T20:55:15.970Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T20:55:16.017Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T20:55:16.040Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T20:55:16.053Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T20:55:16.350Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T20:55:16.423Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T20:57:59.437Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T20:57:59.500Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T20:57:59.508Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T20:57:59.510Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T20:57:59.798Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T20:57:59.852Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:01:30.724Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:01:30.741Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:01:30.801Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:01:30.799Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:01:30.810Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:01:30.813Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:01:50.970Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:01:50.977Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:01:50.971Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:01:51.032Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:01:51.049Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:01:51.067Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:02:15.989Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:02:15.998Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:02:16.047Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:02:16.055Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:02:16.151Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:02:16.167Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:02:22.830Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:02:22.917Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:02:22.937Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:02:22.940Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:02:22.974Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:02:23.002Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:08:41.301Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:08:41.304Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:08:41.347Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:08:41.353Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:08:41.783Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:08:41.863Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:10:03.002Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:10:02.999Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:10:03.054Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:10:03.073Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:10:03.482Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:10:03.567Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:10:55.835Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:10:55.920Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:10:55.932Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:10:55.934Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:10:56.375Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:10:56.442Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:11:48.890Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:11:48.969Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:11:48.978Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:11:48.983Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:11:49.420Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:11:49.495Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:16:45.305Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:16:45.302Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:16:45.358Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:16:45.378Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:17:37.039Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:17:37.042Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:17:37.081Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:17:37.087Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:17:37.133Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:17:37.155Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:32:27.486Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:32:27.496Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:32:27.536Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:32:27.581Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:32:27.911Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:32:27.958Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:34:26.767Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:34:26.765Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:34:26.827Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:34:26.843Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:34:27.145Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:34:27.199Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:35:17.785Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:35:17.794Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:35:17.834Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:35:17.876Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:35:18.183Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:35:18.236Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:35:40.318Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:35:40.316Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:35:40.378Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:35:40.399Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:35:40.730Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:35:40.772Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:36:30.936Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:36:30.944Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:36:30.948Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:36:30.992Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:36:31.028Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:36:31.073Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:37:16.971Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:37:17.005Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:37:17.074Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:37:17.077Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:37:17.132Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:37:17.195Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:37:57.833Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:37:57.844Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:37:57.923Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:37:57.931Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:37:57.943Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:37:57.954Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:48:27.808Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:48:27.820Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:48:27.872Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:48:27.905Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:48:27.919Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:48:27.929Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:48:44.997Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:48:44.995Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:48:45.065Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:48:45.090Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:48:45.558Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:48:45.609Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:52:52.451Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:52:52.475Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:52:52.503Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:52:52.560Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:52:52.883Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:52:52.939Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:55:10.226Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:55:10.235Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:55:10.235Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:55:10.273Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:55:10.307Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:55:10.340Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:58:24.397Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:58:24.420Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:58:24.414Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:58:24.451Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:58:24.483Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:58:24.524Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:59:07.910Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:59:07.943Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:59:07.966Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:59:08.024Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T21:59:08.039Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T21:59:08.050Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:06:57.114Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:06:57.112Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:06:57.184Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:06:57.206Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:06:57.657Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:06:57.772Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:07:49.219Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:07:49.234Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:07:49.296Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:07:49.369Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:07:49.885Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:07:50.006Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:08:30.252Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:08:30.321Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:08:30.341Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:08:30.438Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:08:30.851Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:08:30.947Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:08:53.644Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:08:53.706Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:08:53.726Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:08:53.817Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:08:54.131Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:08:54.209Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:20:03.038Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:20:03.042Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:20:03.045Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:20:03.078Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:20:03.103Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:20:03.123Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:21:18.507Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:21:18.571Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:21:18.564Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:21:18.622Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:21:18.938Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:21:18.983Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:21:46.304Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:21:46.308Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:21:46.362Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:21:46.369Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:21:46.708Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:21:46.751Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:25:27.714Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:25:27.711Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:25:27.764Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:25:27.779Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:25:28.019Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:25:28.062Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:26:16.289Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:26:16.306Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:26:16.297Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:26:16.363Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:26:16.406Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:26:16.513Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:28:17.567Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:28:17.596Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:28:17.612Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:28:17.673Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:28:18.020Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:28:18.065Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:28:58.011Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:28:58.020Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:28:58.057Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:28:58.101Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:28:58.394Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:28:58.439Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:36:54.693Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:36:54.721Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:36:54.757Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:36:54.792Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:36:54.826Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:36:54.875Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:38:35.048Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:38:35.052Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:38:35.120Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:38:35.122Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:38:35.141Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:38:35.165Z"}
+{"message":"Joi.ObjectId is not a function","stack":"TypeError: Joi.ObjectId is not a function\n    at ObjectId (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/routes/returns.js:37:21)\n    at validateReturn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/routes/returns.js:10:21)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:137:13)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/middleware/auth.js:11:5)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at urlencodedParser (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/body-parser/lib/types/urlencoded.js:82:7)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/body-parser/lib/read.js:130:5\n    at invokeCallback (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:224:16)\n    at done (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:213:7)\n    at IncomingMessage.onEnd (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:273:7)\n    at IncomingMessage.emit (events.js:182:13)\n    at endReadableNT (_stream_readable.js:1094:12)\n    at process._tickCallback (internal/process/next_tick.js:63:19)","level":"error","timestamp":"2019-02-06T22:38:35.219Z"}
+{"message":"Joi.ObjectId is not a function","stack":"TypeError: Joi.ObjectId is not a function\n    at ObjectId (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/routes/returns.js:37:21)\n    at validateReturn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/routes/returns.js:10:21)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:137:13)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/middleware/auth.js:11:5)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at urlencodedParser (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/body-parser/lib/types/urlencoded.js:82:7)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/body-parser/lib/read.js:130:5\n    at invokeCallback (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:224:16)\n    at done (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:213:7)\n    at IncomingMessage.onEnd (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:273:7)\n    at IncomingMessage.emit (events.js:182:13)\n    at endReadableNT (_stream_readable.js:1094:12)\n    at process._tickCallback (internal/process/next_tick.js:63:19)","level":"error","timestamp":"2019-02-06T22:38:35.253Z"}
+{"message":"Joi.ObjectId is not a function","stack":"TypeError: Joi.ObjectId is not a function\n    at ObjectId (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/routes/returns.js:37:21)\n    at validateReturn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/routes/returns.js:10:21)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:137:13)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/middleware/auth.js:11:5)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at urlencodedParser (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/body-parser/lib/types/urlencoded.js:82:7)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/body-parser/lib/read.js:130:5\n    at invokeCallback (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:224:16)\n    at done (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:213:7)\n    at IncomingMessage.onEnd (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:273:7)\n    at IncomingMessage.emit (events.js:182:13)\n    at endReadableNT (_stream_readable.js:1094:12)\n    at process._tickCallback (internal/process/next_tick.js:63:19)","level":"error","timestamp":"2019-02-06T22:38:35.276Z"}
+{"message":"Joi.ObjectId is not a function","stack":"TypeError: Joi.ObjectId is not a function\n    at ObjectId (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/routes/returns.js:37:21)\n    at validateReturn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/routes/returns.js:10:21)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:137:13)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/middleware/auth.js:11:5)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at urlencodedParser (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/body-parser/lib/types/urlencoded.js:82:7)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/body-parser/lib/read.js:130:5\n    at invokeCallback (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:224:16)\n    at done (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:213:7)\n    at IncomingMessage.onEnd (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:273:7)\n    at IncomingMessage.emit (events.js:182:13)\n    at endReadableNT (_stream_readable.js:1094:12)\n    at process._tickCallback (internal/process/next_tick.js:63:19)","level":"error","timestamp":"2019-02-06T22:38:35.303Z"}
+{"message":"Joi.ObjectId is not a function","stack":"TypeError: Joi.ObjectId is not a function\n    at ObjectId (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/routes/returns.js:37:21)\n    at validateReturn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/routes/returns.js:10:21)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:137:13)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/middleware/auth.js:11:5)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at urlencodedParser (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/body-parser/lib/types/urlencoded.js:82:7)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/body-parser/lib/read.js:130:5\n    at invokeCallback (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:224:16)\n    at done (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:213:7)\n    at IncomingMessage.onEnd (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:273:7)\n    at IncomingMessage.emit (events.js:182:13)\n    at endReadableNT (_stream_readable.js:1094:12)\n    at process._tickCallback (internal/process/next_tick.js:63:19)","level":"error","timestamp":"2019-02-06T22:38:35.324Z"}
+{"message":"Joi.ObjectId is not a function","stack":"TypeError: Joi.ObjectId is not a function\n    at ObjectId (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/routes/returns.js:37:21)\n    at validateReturn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/routes/returns.js:10:21)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:137:13)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/middleware/auth.js:11:5)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at urlencodedParser (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/body-parser/lib/types/urlencoded.js:82:7)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/body-parser/lib/read.js:130:5\n    at invokeCallback (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:224:16)\n    at done (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:213:7)\n    at IncomingMessage.onEnd (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:273:7)\n    at IncomingMessage.emit (events.js:182:13)\n    at endReadableNT (_stream_readable.js:1094:12)\n    at process._tickCallback (internal/process/next_tick.js:63:19)","level":"error","timestamp":"2019-02-06T22:38:35.341Z"}
+{"message":"Joi.ObjectId is not a function","stack":"TypeError: Joi.ObjectId is not a function\n    at ObjectId (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/routes/returns.js:37:21)\n    at validateReturn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/routes/returns.js:10:21)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:137:13)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/middleware/auth.js:11:5)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at urlencodedParser (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/body-parser/lib/types/urlencoded.js:82:7)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/body-parser/lib/read.js:130:5\n    at invokeCallback (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:224:16)\n    at done (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:213:7)\n    at IncomingMessage.onEnd (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:273:7)\n    at IncomingMessage.emit (events.js:182:13)\n    at endReadableNT (_stream_readable.js:1094:12)\n    at process._tickCallback (internal/process/next_tick.js:63:19)","level":"error","timestamp":"2019-02-06T22:38:35.392Z"}
+{"message":"Joi.ObjectId is not a function","stack":"TypeError: Joi.ObjectId is not a function\n    at ObjectId (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/routes/returns.js:37:21)\n    at validateReturn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/routes/returns.js:10:21)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:137:13)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/middleware/auth.js:11:5)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at urlencodedParser (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/body-parser/lib/types/urlencoded.js:82:7)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/body-parser/lib/read.js:130:5\n    at invokeCallback (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:224:16)\n    at done (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:213:7)\n    at IncomingMessage.onEnd (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:273:7)\n    at IncomingMessage.emit (events.js:182:13)\n    at endReadableNT (_stream_readable.js:1094:12)\n    at process._tickCallback (internal/process/next_tick.js:63:19)","level":"error","timestamp":"2019-02-06T22:38:35.425Z"}
+{"message":"Joi.ObjectId is not a function","stack":"TypeError: Joi.ObjectId is not a function\n    at ObjectId (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/routes/returns.js:37:21)\n    at validateReturn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/routes/returns.js:10:21)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:137:13)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/middleware/auth.js:11:5)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at urlencodedParser (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/body-parser/lib/types/urlencoded.js:82:7)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/body-parser/lib/read.js:130:5\n    at invokeCallback (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:224:16)\n    at done (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:213:7)\n    at IncomingMessage.onEnd (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:273:7)\n    at IncomingMessage.emit (events.js:182:13)\n    at endReadableNT (_stream_readable.js:1094:12)\n    at process._tickCallback (internal/process/next_tick.js:63:19)","level":"error","timestamp":"2019-02-06T22:38:35.452Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:40:25.950Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:40:25.965Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:40:25.961Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:40:25.998Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:40:26.035Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:40:26.091Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:43:53.333Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:43:53.364Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:43:53.352Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:43:53.403Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:43:53.444Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:43:53.504Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:57:52.030Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:57:52.052Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:57:52.078Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:57:52.050Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:57:52.139Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:57:52.197Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:58:40.242Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:58:40.264Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:58:40.251Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:58:40.285Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:58:40.316Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:58:40.357Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:59:05.974Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:59:05.971Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T22:59:06.008Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:59:06.060Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:59:06.067Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T22:59:06.172Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T23:05:28.163Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T23:05:28.161Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T23:05:28.244Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T23:05:28.273Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T23:05:28.677Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T23:05:28.734Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T23:05:59.343Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T23:05:59.346Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T23:05:59.344Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T23:05:59.394Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T23:05:59.417Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T23:05:59.471Z"}
+{"message":"req is not defined","stack":"ReferenceError: req is not defined\n    at Function.req [as lookup] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/models/rental.js:60:21)\n    at lookup (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/routes/returns.js:11:31)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:137:13)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/middleware/validate.js:5:5)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:137:13)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/middleware/auth.js:11:5)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at urlencodedParser (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/body-parser/lib/types/urlencoded.js:82:7)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/body-parser/lib/read.js:130:5\n    at invokeCallback (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:224:16)\n    at done (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:213:7)\n    at IncomingMessage.onEnd (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:273:7)\n    at IncomingMessage.emit (events.js:182:13)\n    at endReadableNT (_stream_readable.js:1094:12)\n    at process._tickCallback (internal/process/next_tick.js:63:19)","level":"error","timestamp":"2019-02-06T23:05:59.529Z"}
+{"message":"req is not defined","stack":"ReferenceError: req is not defined\n    at Function.req [as lookup] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/models/rental.js:60:21)\n    at lookup (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/routes/returns.js:11:31)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:137:13)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/middleware/validate.js:5:5)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:137:13)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/middleware/auth.js:11:5)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at urlencodedParser (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/body-parser/lib/types/urlencoded.js:82:7)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/body-parser/lib/read.js:130:5\n    at invokeCallback (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:224:16)\n    at done (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:213:7)\n    at IncomingMessage.onEnd (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:273:7)\n    at IncomingMessage.emit (events.js:182:13)\n    at endReadableNT (_stream_readable.js:1094:12)\n    at process._tickCallback (internal/process/next_tick.js:63:19)","level":"error","timestamp":"2019-02-06T23:05:59.554Z"}
+{"message":"req is not defined","stack":"ReferenceError: req is not defined\n    at Function.req [as lookup] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/models/rental.js:60:21)\n    at lookup (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/routes/returns.js:11:31)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:137:13)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/middleware/validate.js:5:5)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:137:13)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/middleware/auth.js:11:5)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at urlencodedParser (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/body-parser/lib/types/urlencoded.js:82:7)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/body-parser/lib/read.js:130:5\n    at invokeCallback (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:224:16)\n    at done (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:213:7)\n    at IncomingMessage.onEnd (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:273:7)\n    at IncomingMessage.emit (events.js:182:13)\n    at endReadableNT (_stream_readable.js:1094:12)\n    at process._tickCallback (internal/process/next_tick.js:63:19)","level":"error","timestamp":"2019-02-06T23:05:59.570Z"}
+{"message":"req is not defined","stack":"ReferenceError: req is not defined\n    at Function.req [as lookup] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/models/rental.js:60:21)\n    at lookup (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/routes/returns.js:11:31)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:137:13)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/middleware/validate.js:5:5)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:137:13)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/middleware/auth.js:11:5)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at urlencodedParser (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/body-parser/lib/types/urlencoded.js:82:7)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/body-parser/lib/read.js:130:5\n    at invokeCallback (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:224:16)\n    at done (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:213:7)\n    at IncomingMessage.onEnd (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:273:7)\n    at IncomingMessage.emit (events.js:182:13)\n    at endReadableNT (_stream_readable.js:1094:12)\n    at process._tickCallback (internal/process/next_tick.js:63:19)","level":"error","timestamp":"2019-02-06T23:05:59.586Z"}
+{"message":"req is not defined","stack":"ReferenceError: req is not defined\n    at Function.req [as lookup] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/models/rental.js:60:21)\n    at lookup (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/routes/returns.js:11:31)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:137:13)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/middleware/validate.js:5:5)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:137:13)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/middleware/auth.js:11:5)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at urlencodedParser (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/body-parser/lib/types/urlencoded.js:82:7)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/body-parser/lib/read.js:130:5\n    at invokeCallback (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:224:16)\n    at done (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:213:7)\n    at IncomingMessage.onEnd (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:273:7)\n    at IncomingMessage.emit (events.js:182:13)\n    at endReadableNT (_stream_readable.js:1094:12)\n    at process._tickCallback (internal/process/next_tick.js:63:19)","level":"error","timestamp":"2019-02-06T23:05:59.616Z"}
+{"message":"req is not defined","stack":"ReferenceError: req is not defined\n    at Function.req [as lookup] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/models/rental.js:60:21)\n    at lookup (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/routes/returns.js:11:31)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:137:13)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/middleware/validate.js:5:5)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:137:13)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/middleware/auth.js:11:5)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at urlencodedParser (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/body-parser/lib/types/urlencoded.js:82:7)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/body-parser/lib/read.js:130:5\n    at invokeCallback (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:224:16)\n    at done (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:213:7)\n    at IncomingMessage.onEnd (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:273:7)\n    at IncomingMessage.emit (events.js:182:13)\n    at endReadableNT (_stream_readable.js:1094:12)\n    at process._tickCallback (internal/process/next_tick.js:63:19)","level":"error","timestamp":"2019-02-06T23:05:59.651Z"}
+{"message":"req is not defined","stack":"ReferenceError: req is not defined\n    at Function.req [as lookup] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/models/rental.js:60:21)\n    at lookup (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/routes/returns.js:11:31)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:137:13)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/middleware/validate.js:5:5)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:137:13)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/middleware/auth.js:11:5)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at urlencodedParser (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/body-parser/lib/types/urlencoded.js:82:7)\n    at newFn (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/express/lib/router/index.js:275:10)\n    at /Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/body-parser/lib/read.js:130:5\n    at invokeCallback (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:224:16)\n    at done (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:213:7)\n    at IncomingMessage.onEnd (/Users/blairmarshall/Desktop/Udacity/NodeProjects/vidly/node_modules/raw-body/index.js:273:7)\n    at IncomingMessage.emit (events.js:182:13)\n    at endReadableNT (_stream_readable.js:1094:12)\n    at process._tickCallback (internal/process/next_tick.js:63:19)","level":"error","timestamp":"2019-02-06T23:05:59.683Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T23:07:12.506Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T23:07:12.504Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T23:07:12.563Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T23:07:12.583Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T23:07:12.796Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T23:07:12.846Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T23:23:22.314Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T23:23:22.313Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T23:23:22.378Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T23:23:22.393Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T23:23:22.648Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T23:23:22.702Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T23:23:40.352Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T23:23:40.350Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T23:23:40.420Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T23:23:40.446Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T23:23:40.708Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T23:23:40.761Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T23:24:05.500Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T23:24:05.518Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T23:24:05.575Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T23:24:05.579Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T23:24:05.885Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T23:24:05.933Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T23:24:41.425Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T23:24:41.427Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T23:24:41.486Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T23:24:41.494Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T23:24:41.510Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T23:24:41.529Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T23:25:57.332Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T23:25:57.385Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T23:25:57.385Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T23:25:57.454Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-06T23:25:57.487Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-06T23:25:57.519Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-07T17:41:10.001Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-07T17:41:10.005Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-07T17:41:10.000Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-07T17:41:10.052Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-07T17:41:10.065Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-07T17:41:10.096Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-07T17:41:25.371Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-07T17:41:25.369Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-07T17:41:25.433Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-07T17:41:25.439Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-07T17:41:25.452Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-07T17:41:25.471Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-07T17:41:49.303Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-07T17:41:49.337Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-07T17:41:49.372Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-07T17:41:49.397Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-07T17:41:49.434Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-07T17:41:49.459Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-07T17:43:11.980Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-07T17:43:11.990Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-07T17:43:12.030Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-07T17:43:12.050Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-07T17:43:12.074Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-07T17:43:12.077Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-07T17:44:01.846Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-07T17:44:01.850Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-07T17:44:01.844Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-07T17:44:01.915Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-07T17:44:01.945Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-07T17:44:01.973Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-07T17:54:37.266Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-07T17:54:37.265Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-07T17:54:37.332Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-07T17:54:37.330Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-07T17:54:37.343Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-07T17:54:37.373Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-07T18:00:07.227Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-07T18:00:07.241Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-07T18:00:07.289Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-07T18:00:07.326Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-07T18:00:07.361Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-07T18:00:07.372Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-07T18:00:44.350Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-07T18:00:44.347Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-07T18:00:44.411Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-07T18:00:44.418Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-07T18:00:44.445Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2019-02-07T18:00:44.450Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-07T18:08:29.335Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-07T18:21:37.695Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-07T18:22:07.979Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2019-02-07T18:22:08.017Z"}

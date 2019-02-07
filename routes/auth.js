@@ -1,12 +1,12 @@
+const {User} = require('../models/user');
 const _ = require('lodash');
 const jwt = require('jsonwebtoken');
 const config = require('config');
 const bcrypt = require('bcrypt');
 const Joi = require('joi');
-const {User} = require('../models/user');
+const mongoose = require('mongoose');
 const express = require('express');
 const router = express.Router();
-const mongoose = require('mongoose');
 
 router.post('/', async (req, res) => {
   const { error } = validate(req.body);
